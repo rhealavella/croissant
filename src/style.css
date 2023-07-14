@@ -1,6 +1,7 @@
 body {
-  background-color: #a6a1f1;
+  background-color: #eabe87;
 }
+
 h1 {
   margin: 0 auto;
   padding: 20px;
@@ -13,4 +14,8 @@ img {
 p {
   display: block;
   text-align: center;
+}
+h2 {
+  text-align: center;
+  font-size: 12pt;
 }
